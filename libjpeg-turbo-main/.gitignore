@@ -1,0 +1,6 @@
+/build
+/source/
+/libs/**/lib/pkgconfig/
+/libs/**/lib/cmake/
+/libs/**/share/
+/libs/**/bin/
